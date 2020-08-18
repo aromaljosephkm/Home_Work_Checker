@@ -20,5 +20,7 @@ A Simple python script that can be used by teachers to check digital notes
       - The Roll Number of students who doesnt submitted the note
 ## Thank you in advance
 ## Build Together
+### Aromal Joseph K M
+#### @aromaljosephkm
 
       
